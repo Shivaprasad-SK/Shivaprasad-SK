@@ -1,6 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m Shivaprasad K<br>👀 I’m interested in data science 🥳<br>🌱 I'm a data science student with a passion for uncovering insights from complex datasets. I'm currently honing my skills in developing predictive models, performing statistical analysis, and creating data-driven solutions. I'm always eager to learn new techniques and tools in data science and machine learning. My goal is to leverage data to make informed decisions and drive meaningful impact in various industries.
-
+👋 Hi, I’m Shivaprasad K  
+👨‍💻 I’m passionate about **Web Development** and **Software Development** — building interactive websites, user-friendly interfaces, and robust software applications using technologies like HTML, CSS, JavaScript, React, PHP, Java, and Python.  
+🚀 I'm always eager to learn new tools, frameworks, and best practices to stay updated with modern development trends.  
+🎯 My goal is to develop efficient, scalable, and impactful digital solutions that solve real-world problems and deliver great user experiences.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shivaprasad_k_gowda/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaprasad-k-32b451289/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivaprasadk342@gmail.com) 
